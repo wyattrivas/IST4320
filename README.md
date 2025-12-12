@@ -1,1 +1,1 @@
-# IST4320
+# IST4320 Final App Project
